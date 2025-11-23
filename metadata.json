@@ -1,0 +1,8 @@
+{
+  "name": "Copy of JD Mall Clone",
+  "description": "A mobile-first e-commerce replication of the JD.com shopping experience featuring sticky search, categories, seckill deals, and product feeds.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
